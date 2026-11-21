@@ -35,6 +35,7 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 - [OpticOdds](https://opticodds.com/) - Enterprise push odds feed built for trading desks and operators, sales led.
 - [ParlayAPI](https://parlay-api.com/) - Odds and player props from 30+ sportsbooks plus Kalshi and Polymarket, with a free tier and the-odds-api compatible endpoints.
 - [Pinnacle API](https://pinnacleapi.github.io/) - Documentation for Pinnacle's B2B betting API, a common reference for sharp lines.
+- [PinnRadar](https://pinnradar.com/) - Pinnacle live and prematch odds over REST, WebSocket and SSE, with price-drop alerts and a free tier.
 - [SharpAPI](https://sharpapi.io/) - Streaming odds API with built-in EV and arbitrage detection.
 - [Smarkets API](https://docs.smarkets.com/) - REST API for the Smarkets betting exchange.
 - [Sportradar](https://developer.sportradar.com/) - Enterprise sports data provider with odds, probabilities, and official feeds.
@@ -116,6 +117,7 @@ Betting involves real financial risk and most bettors lose money. If gambling is
 - [parlay-api-mcp](https://github.com/JacobiusMakes/parlay-api-mcp) - MCP server for ParlayAPI with live odds, props, arbitrage, and EV tools.
 - [parlayapi-agent-tools](https://github.com/JacobiusMakes/parlayapi-agent-tools) - ParlayAPI odds tools packaged for LangChain, LlamaIndex, and raw OpenAI or Anthropic function calling.
 - [parlayapi-betting-agent-starter](https://github.com/JacobiusMakes/parlayapi-betting-agent-starter) - Starter template for a betting agent: live odds in, no-vig fair lines out, one marked extension point for your model, runs keyless in Colab or Codespaces.
+- [PinnRadar MCP](https://pinnradar.com/mcp) - Pinnacle odds, line moves, and price drops over a hosted remote MCP server.
 - [Pinnwire](https://pinnwire.com/) - Pinnacle odds, price drops, and no-vig fair prices over MCP.
 - [PulseMCP](https://www.pulsemcp.com/) - Community directory of MCP servers, including sports betting ones.
 - [SkipOdds](https://skipodds.com/) - De-vigged consensus win probabilities over a keyless remote MCP server.
